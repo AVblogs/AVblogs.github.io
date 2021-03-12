@@ -1,9 +1,10 @@
-## Welcome to GitHub Pages
+## Who we are
 
-You can use the [editor on GitHub](https://github.com/AVblogs/AVblogs.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Not that it matters too much because..well this will fall on deaf ears but WHO THE FUCK CARES.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##### The A in AVblogs
 
+My name is Alex, and well, I like rocks, so much in fact that I decided to major in geology. I make up a lot of reasons as to why I picked it, but I really have no clue, I can't verbalize why exaclty I'm here, but I love it so I guess that's al that matters. 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
